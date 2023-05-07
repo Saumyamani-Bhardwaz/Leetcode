@@ -14,7 +14,6 @@ public:
                 }
             }
         }
-        cout<<"Saumyamani Bhardwaz_20BCS1682"<<endl;
         return ans;
     }
 };
