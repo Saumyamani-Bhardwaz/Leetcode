@@ -9,7 +9,6 @@ public:
             buyPrice=min(buyPrice,prices[i]);
             maxPrice=max(maxPrice,prices[i]-buyPrice);
         }
-        cout<<" Saumyamani Bhardwaz_20BCS1682"<<endl;
         return maxPrice;
     }
 };
