@@ -14,7 +14,6 @@ return true;
 }
 }
 }
-cout<<"Saumyamani Bhardwaz_20BCS1682"<<endl;
 return false;
 }
 };
